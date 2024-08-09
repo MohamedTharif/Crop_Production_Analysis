@@ -60,10 +60,10 @@
 ![Area vs Production vs Productivity](https://github.com/MohamedTharif/Crop_Production_Analysis/blob/master/EDA/Parallel%20Coordinates.png?raw=true)
 
 # Author 
-**MOHAMED THARIF**
+[**MOHAMED THARIF**](https://github.com/MohamedTharif)
 
 # Contributor
-**SURYA PRAKASH**
+[**SURYA PRAKASH**](https://github.com/Surya-Prakash25)
 
 # Feedback
 If you have any feedback, please reach out to me at mohammedtharif30@gmail.com or r.suryaprakash916@gmail.com.
